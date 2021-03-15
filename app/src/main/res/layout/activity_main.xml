@@ -20,7 +20,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:background="#3F51B5"
-        android:text="Ask"
+        android:text="@string/button_text"
         android:textColor="@android:color/background_light" />
 
     <TextView
@@ -30,7 +30,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="34dp"
-        android:text="Make everyday decisions easier!"
+        android:text="@string/textView_text"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         android:textStyle="bold" />
